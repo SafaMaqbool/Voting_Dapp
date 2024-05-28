@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/SafaMaqbool/ClientRepo.git
+[submodule "contract"]
+	path = contract
+	url = https://github.com/SafaMaqbool/ContractRepo.git
